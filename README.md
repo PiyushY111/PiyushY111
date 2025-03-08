@@ -19,18 +19,30 @@
 
 I work with a variety of technologies and tools to build amazing projects:
 
-- **Android**: ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
-- **Arduino**: ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-- **C Programming**: ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- **C++**: ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- **CSS3**: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- **Git**: ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-- **HTML5**: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- **JavaScript**: ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- **Linux**: ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- **Python**: ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- **React**: ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- **Unity**: ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+- **First Row (P)**:  
+  ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+  ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+
+- **Second Row (P)**:  
+  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+  
+- **Third Row (P)**:  
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+  
+- **Fourth Row (P)**:  
+  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+  
+- **Fifth Row (P)**:  
+  ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+  
+- **Sixth Row (P)**:  
+  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+  
+- **Seventh Row (P)**:  
+  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
 ---
 
