@@ -30,5 +30,4 @@ I'm a passionate Frontend Developer focused on building seamless and interactive
 ## 💡 Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
----
-![Profile Visits](https://visitcount.itsvg.in/api?id=PiyushY111&icon=3&color=4)
+
