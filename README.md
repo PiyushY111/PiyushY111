@@ -18,13 +18,6 @@ I'm a passionate Frontend Developer focused on building seamless and interactive
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Piyush(NST'28))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushydv914@gmail.com)
 
-## 📊 GitHub Stats
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushY111&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushY111&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushY111&layout=compact&theme=tokyonight)
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PiyushY111&theme=radical)
 
 ## 💡 Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
