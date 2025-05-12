@@ -2,6 +2,9 @@
 
 I'm a passionate Frontend Developer focused on building seamless and interactive user experiences. As an active member of the Blockchain vertical and the Executive Wing at Dev Club, NSTXRU, I contribute to tech-driven projects and community initiatives.
 
+## 🌟 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)](https://www.piyushinnovates.in/)
+
 ## 🚀 What I Do
 - 🎨 **Frontend Development** | Building responsive and intuitive UI/UX.
 - ⚡ **React & JavaScript** | Developing scalable web applications.
