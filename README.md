@@ -34,9 +34,5 @@ Building SaaS systems, automation workflows, internal tools, and custom software
 </p>
 </br>
 <p align="center">
-  <img src="https://github-profiles-insights.vercel.app/api/insight?username=PiyushY111&card=graph&theme=aurora_night" alt="PiyushY111's GitHub Insights" />
-</p>
-</br>
-<p align="center">
   <img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=PiyushY111&style=alberto&animate=true" alt="PiyushY111's GitHub 3D Contribution" />
 </p>
