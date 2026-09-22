@@ -17,9 +17,8 @@ Running Dev Club, NST as Vice President — leading project teams and mentoring 
  
 ## Leadership
  
-- **Vice President, Dev Club, NST** — leading multiple project teams and mentoring student developers. ‹How many teams / members? Any project that shipped under you worth naming?›
-- **Lead, Neutron** (tech fest) — owned planning and execution end to end. ‹Attendance, budget, number of events run, anything that shows scale.›
-- **Lead, Damru** (cultural fest) — owned planning and execution end to end. ‹Same — a number here makes this land much harder.›
+- **Vice President, Dev Club, NST** — leading a team of 15+ across multiple project teams, building 10+ projects for the college and its tech ecosystem, while mentoring student developers.
+- **Tech Lead, Neutron & Damru** (college's tech and cultural fests) — led the entire tech side for both fests end to end: built and ran the systems that powered the website experience for 3,000+ people, owning everything from planning through execution.
 
 ## Freelance
  
